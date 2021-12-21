@@ -1,1 +1,7 @@
-/* styles go here */
+div {
+  padding: 5px 0;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
